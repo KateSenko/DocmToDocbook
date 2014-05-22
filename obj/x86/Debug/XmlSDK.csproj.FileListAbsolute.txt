@@ -1,0 +1,16 @@
+C:\Users\Kate\documents\visual studio 2010\Projects\XmlSDK\XmlSDK\obj\x86\Debug\XmlSDK.csprojResolveAssemblyReference.cache
+C:\Users\Kate\documents\visual studio 2010\Projects\XmlSDK\XmlSDK\bin\Debug\XmlSDK.exe.manifest
+C:\Users\Kate\documents\visual studio 2010\Projects\XmlSDK\XmlSDK\bin\Debug\XmlSDK.exe
+C:\Users\Kate\documents\visual studio 2010\Projects\XmlSDK\XmlSDK\bin\Debug\XmlSDK.pdb
+C:\Users\Kate\documents\visual studio 2010\Projects\XmlSDK\XmlSDK\obj\x86\Debug\XmlSDK.exe.manifest
+C:\Users\Kate\documents\visual studio 2010\Projects\XmlSDK\XmlSDK\obj\x86\Debug\XmlSDK.exe
+C:\Users\Kate\documents\visual studio 2010\Projects\XmlSDK\XmlSDK\obj\x86\Debug\XmlSDK.pdb
+C:\Users\Kate\Documents\Visual Studio 2012\Projects\XmlSDK\XmlSDK\obj\x86\Debug\XmlSDK.exe
+C:\Users\Kate\Documents\Visual Studio 2012\Projects\XmlSDK\XmlSDK\obj\x86\Debug\XmlSDK.pdb
+C:\Users\Kate\Documents\Visual Studio 2012\Projects\XmlSDK\XmlSDK\bin\Debug\XmlSDK.exe.manifest
+C:\Users\Kate\Documents\Visual Studio 2012\Projects\XmlSDK\XmlSDK\bin\Debug\XmlSDK.exe
+C:\Users\Kate\Documents\Visual Studio 2012\Projects\XmlSDK\XmlSDK\bin\Debug\XmlSDK.pdb
+C:\Users\Kate\Documents\Visual Studio 2012\Projects\XmlSDK\XmlSDK\obj\x86\Debug\XmlSDK.exe.manifest
+C:\Users\Kate\Documents\Visual Studio 2012\Projects\XmlSDK\XmlSDK\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\XmlSDK\XmlSDK\obj\x86\Debug\XmlSDK.exe
+D:\Work\XmlSDK\XmlSDK\obj\x86\Debug\XmlSDK.pdb
